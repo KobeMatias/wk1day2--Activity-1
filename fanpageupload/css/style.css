@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Russo One', sans-serif;
+    color: #44CFCB;
+}
+
+h2 {
+    font-family: 'Russo One', sans-serif;
+    color: #4EA5D9;
+}
+
+html, body{
+    background-image: linear-gradient(#000000, #2A4494);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #122C34;
+    color: #f3f3f3;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.websitelink {
+    color: #44CFCB;
+    font-family: 'Roboto', sans-serif;
+}
